@@ -5,14 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m working on ...
-- 🌱 I’m  learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m working on ..TOPS TECHNOLOGIES
+- 🌱 I’m  learning ...NEW THINKS OF DESIGN AND IMPROVE MY DESIGN SKILL
+- 👯 I’m looking to collaborate on ...FREELANCING AND PROJECTS WORK
+- 💬 Ask me about ... ADOBE XD,PHOTOSHOP, FIGMA,HTML5,CSS3,JAVASCRIPTS.
+
+
 --><h1 align="center">Hi 👋, I'm hardik_patel</h1>
 <h3 align="center">A passionate web designer and developer from India.</h3>
 
@@ -26,6 +24,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **HTML5, CSS3, HTML, CSS, JAVASCRIPT, JQUERY**
 
 - 📫 How to reach me <a href="mailto:hp360313@gmail.com">hp360313@gmail.com</a>
+
 <hr>
 
 <h3 align="center">Connect with me:</h3>
