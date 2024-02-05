@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about **HTML5, CSS3, HTML, CSS, JAVASCRIPT, JQUERY**
 
 - 📫 How to reach me <a href="mailto:hp360313@gmail.com">hp360313@gmail.com</a>
+<hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/er-hardik-patel-3b0375169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hjj" height="30" width="40" /></a>
 <a href="https://dribbble.com/Patel_Hardik786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hhj" height="30" width="40" /></a>
