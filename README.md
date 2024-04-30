@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **web design and freelancing**
 
-- 💬 Ask me about **HTML5, CSS3, HTML, CSS, JAVASCRIPT, JQUERY**
+- 💬 Ask me about **HTML5, CSS3, HTML, CSS, JAVASCRIPT, JQUERY,Bootstrap5**
 
 - 📫 How to reach me <a href="mailto:hp360313@gmail.com">hp360313@gmail.com</a>
 
